@@ -1,7 +1,7 @@
 # Customer Behaviors
 
 ## Dataset  
-A survey asking about interests and consumptions of 30 things, e.g., Japanese food, Thai food, Gaming, Cosmetics. The respodents are the students within the class.
+A survey asking about interests and consumptions of 30 things, e.g., Japanese food, Thai food, Gaming, Cosmetics. The respodents are the students from the class.
 
 **Notebook:** [Analysis of customer behaviors](./hw01-customer-behaviors.ipynb)
 
