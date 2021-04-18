@@ -24,7 +24,7 @@ Some of generated features are only applicable to multiple transactions. For exa
   
 
 ### 3.1) Single-Purchase Customer Clustering
-Create KMean model using BigQuery ML with [bq-ml-kmeans-single-purchase-customers.sql](./bq-ml-kmeans-single-purchase-customers.sql)  
+Create KMean model using *BigQuery ML* with [bq-ml-kmeans-single-purchase-customers.sql](./bq-ml-kmeans-single-purchase-customers.sql)  
 
 #### Features
 * `days_since_last_purch` : duration in days from the last transaction. This represents *Recency* in RFM analysis
@@ -32,10 +32,14 @@ Create KMean model using BigQuery ML with [bq-ml-kmeans-single-purchase-customer
 
 #### Choosing K number of clusters
 Choose `K = 4`
-![overview](./img/single-purchase-choose-k.png)
+![single-purchase-choose-k](./img/single-purchase-choose-k.png)
+
+#### Clustering Result
+Centroid value for each feature from BigQuery UI.
+![single-purchase-centroids](./img/single-purchase-centroids.png)
 
 ### 3.2) Repeat-Purchase Customer Clustering
-Create KMean model using BigQuery ML with [bq-ml-kmeans-repeat-purchase-customers.sql](./bq-ml-repeat-single-purchase-customers.sql)  
+Create KMean model using *BigQuery ML* with [bq-ml-kmeans-repeat-purchase-customers.sql](./bq-ml-repeat-purchase-customers.sql)  
 
 #### Features
 * `avg_ticket_size` : average of total spending over all transactions, representing *Monetary* in RFM analysis.
@@ -49,7 +53,14 @@ Create KMean model using BigQuery ML with [bq-ml-kmeans-repeat-purchase-customer
 Choose `K = 6`
 ![overview](./img/repeat-purchase-choose-k.png)
 
+#### Clustering Result
+Centroid value for each feature from BigQuery UI.
+![repeat-purchase-centroids](./img/repeat-purchase-centroids.png)
+
 ## 4) Clustering Result Analysis
+
+
+
 
 ## 5) Interpretation
 
