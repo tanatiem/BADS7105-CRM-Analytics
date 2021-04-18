@@ -63,9 +63,16 @@ Using **Google Colab** to query the clustering result from BigQuery to look see 
 **Google Colab:** [Open in Colab](https://colab.research.google.com/github/tanatiem/BADS7105-CRM-Analytics/blob/main/Homework%2006%20-%20Customer%20Segmentation/clustering-result-eda.ipynb)  
 
 ### 4.1) Single-Purchase Customer Clustering
+#### EDA
+![scatterplot](./img/single-purchase-scatterplot.png)  
 ![kdeplot](./img/single-purchase-feature-dist.png)  
-![boxplot](./img/single-purchase-feature-boxplot.png)
-
+![boxplot](./img/single-purchase-feature-boxplot.png)  
+#### Feature Importance
+With cluster as its label, train a decision tree.  
+![importance](./img/single-purchase-feature-importance.png)  
+  
+Since it's just 2 feature, let's see how the tree looks like.  
+![dtree](./img/single-purchase-dtree.png)  
 
 ## 5) Interpretation
 ![interpretation](./img/interpretation.png)
