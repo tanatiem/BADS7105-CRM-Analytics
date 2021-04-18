@@ -85,5 +85,5 @@ With the cluster labels as classes to predict, train a Random Forest classifier.
 ## 5) Interpretation
 
 Giving a definition to each of customer segment.  
-![interpretation](./img/interpretation.png)
+![interpretation](./img/interpretation.png)  
 
