@@ -51,7 +51,7 @@ Create KMean model using *BigQuery ML* with [bq-ml-kmeans-repeat-purchase-custom
 
 #### Choosing K number of clusters
 Choose `K = 6`
-![overview](./img/repeat-purchase-choose-k.png)
+![repeat-purchase-choose-k](./img/repeat-purchase-choose-k.png)
 
 #### Clustering Result
 Centroid value for each feature from BigQuery UI.  
@@ -59,10 +59,14 @@ Centroid value for each feature from BigQuery UI.
 
 ## 4) Clustering Result Analysis
 Using **Google Colab** to query the clustering result from BigQuery to look see more of its characteristic.  
-
 **Notebooks:** [Clustering Result EDA](./clustering-result-eda.ipynb)  
-**Google Colab:** [Open in Colab](https://colab.research.google.com/github/tanatiem/BADS7105-CRM-Analytics/blob/main/Homework%2006%20-%20Customer%20Segmentation/clustering-result-eda.ipynb)
+**Google Colab:** [Open in Colab](https://colab.research.google.com/github/tanatiem/BADS7105-CRM-Analytics/blob/main/Homework%2006%20-%20Customer%20Segmentation/clustering-result-eda.ipynb)  
+
+### 4.1) Single-Purchase Customer Clustering
+![kdeplot](./img/single-purchase-feature-dist.png)  
+![boxplot](./img/single-purchase-feature-boxplot.png)
+
 
 ## 5) Interpretation
-
+![interpretation](./img/interpretation.png)
 
