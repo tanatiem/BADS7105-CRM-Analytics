@@ -86,4 +86,4 @@ With the cluster labels as classes to predict, train a Random Forest classifier.
 
 Giving a definition to each of customer segment.  
 ![interpretation](./img/interpretation.png)  
-
+Note that for spending related features, I used median and the range of [Q2,Q4] to compare between segments. Because they are pretty much right-skewed.
