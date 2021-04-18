@@ -68,11 +68,19 @@ Using **Google Colab** to query the clustering result from BigQuery to look see 
 ![kdeplot](./img/single-purchase-feature-dist.png)  
 ![boxplot](./img/single-purchase-feature-boxplot.png)  
 #### Feature Importance
-With cluster as its label, train a decision tree.  
+With cluster label as classes to predict, train a Decision Tree classifier.  
 ![importance](./img/single-purchase-feature-importance.png)  
-  
-Since it's just 2 feature, let's see how the tree looks like.  
+
+Since it has just 2 features, let's see how the tree looks like.  
 ![dtree](./img/single-purchase-dtree.png)  
+
+### 4.2) Repeat-Purchase Customer Clustering
+#### EDA
+![kdeplot](./img/repeat-purchase-feature-dist.png)  
+![boxplot](./img/repeat-purchase-feature-boxplot.png)  
+#### Feature Importance
+With cluster label as classes to predict, train a Random Forest classifier.  
+![importance](./img/repeat-purchase-feature-importance.png) 
 
 ## 5) Interpretation
 ![interpretation](./img/interpretation.png)
