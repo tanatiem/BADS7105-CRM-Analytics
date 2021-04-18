@@ -35,7 +35,7 @@ Choose `K = 4`
 ![single-purchase-choose-k](./img/single-purchase-choose-k.png)
 
 #### Clustering Result
-Centroid value for each feature from BigQuery UI.
+Centroid value for each feature from BigQuery UI.  
 ![single-purchase-centroids](./img/single-purchase-centroids.png)
 
 ### 3.2) Repeat-Purchase Customer Clustering
@@ -54,13 +54,14 @@ Choose `K = 6`
 ![overview](./img/repeat-purchase-choose-k.png)
 
 #### Clustering Result
-Centroid value for each feature from BigQuery UI.
+Centroid value for each feature from BigQuery UI.  
 ![repeat-purchase-centroids](./img/repeat-purchase-centroids.png)
 
 ## 4) Clustering Result Analysis
+Using **Google Colab** to query the clustering result from BigQuery to look see more of its characteristic.  
 
-
-
+**Notebooks:** [Clustering Result EDA](./clustering-result-eda.ipynb)  
+**Google Colab:** [Open in Colab](https://colab.research.google.com/github/tanatiem/BADS7105-CRM-Analytics/blob/main/Homework%2006%20-%20Customer%20Segmentation/clustering-result-eda.ipynb)
 
 ## 5) Interpretation
 
