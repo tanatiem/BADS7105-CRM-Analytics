@@ -68,7 +68,7 @@ Using **Google Colab** to query the clustering result from BigQuery to look see 
 ![kdeplot](./img/single-purchase-feature-dist.png)  
 ![boxplot](./img/single-purchase-feature-boxplot.png)  
 #### Feature Importance
-With cluster label as classes to predict, train a Decision Tree classifier.  
+With the cluster labels as classes to predict, train a Decision Tree classifier.  
 ![importance](./img/single-purchase-feature-importance.png)  
 
 Since it has just 2 features, let's see how the tree looks like.  
@@ -79,9 +79,11 @@ Since it has just 2 features, let's see how the tree looks like.
 ![kdeplot](./img/repeat-purchase-feature-dist.png)  
 ![boxplot](./img/repeat-purchase-feature-boxplot.png)  
 #### Feature Importance
-With cluster label as classes to predict, train a Random Forest classifier.  
+With the cluster labels as classes to predict, train a Random Forest classifier.  
 ![importance](./img/repeat-purchase-feature-importance.png) 
 
 ## 5) Interpretation
+
+Giving a definition to each of customer segment.  
 ![interpretation](./img/interpretation.png)
 
