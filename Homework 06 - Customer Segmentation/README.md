@@ -1,5 +1,5 @@
 # Customer Segmentation
-
+[![](https://img.shields.io/badge/-K--Means-blue)](#) [![](https://img.shields.io/badge/-BigQuery-blue)](#) [![](https://img.shields.io/badge/-BigQuery--ML-blue)](#) [![](https://img.shields.io/badge/-SQL-blue)](#) [![](https://img.shields.io/badge/-Python-blue)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#)  
 The diagram below describes how this project was implemented.
 ![overview](./img/overview.png)
 
