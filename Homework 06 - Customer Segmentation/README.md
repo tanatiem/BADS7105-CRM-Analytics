@@ -4,7 +4,7 @@ The diagram below describes how this project was implemented.
 ![overview](./img/overview.png)
 
 ## 1) Import Dataset
-The given Supermarket dataset contains 956K rows of sales transactions at sales-item level. Import the file into Google BigQuery.  
+The given Supermarket dataset contains 956K rows of sales transactions at sales-item level. Imported the file into Google BigQuery.  
   
 **Note:** the dataset received is just a part of Dunhumbly public dataset which is way more bigger. There seems to be historical data from only 2 stores from year 2006 to 2008.  
 
@@ -58,7 +58,7 @@ Centroid value for each feature from BigQuery UI.
 ![repeat-purchase-centroids](./img/repeat-purchase-centroids.png)
 
 ## 4) Clustering Result Analysis
-Using **Google Colab** to query the clustering result from BigQuery to look see more of its characteristic.  
+Using **Google Colab** to query the clustering result from BigQuery to see more of its characteristic.  
 **Notebooks:** [Clustering Result EDA](./clustering-result-eda.ipynb)  
 **Google Colab:** [Open in Colab](https://colab.research.google.com/github/tanatiem/BADS7105-CRM-Analytics/blob/main/Homework%2006%20-%20Customer%20Segmentation/clustering-result-eda.ipynb)  
 
