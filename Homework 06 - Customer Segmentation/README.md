@@ -60,7 +60,7 @@ Centroid value for each feature from BigQuery UI.
 ## 4) Clustering Result Analysis
 Using **Google Colab** to query the clustering result from BigQuery to see more of its characteristic.  
 **Notebooks:** [Clustering Result EDA](./clustering-result-eda.ipynb)  
-**Google Colab:** [Open in Colab](https://colab.research.google.com/github/tanatiem/BADS7105-CRM-Analytics/blob/main/Homework%2006%20-%20Customer%20Segmentation/clustering-result-eda.ipynb)  
+**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanatiem/BADS7105-CRM-Analytics/blob/main/Homework%2006%20-%20Customer%20Segmentation/clustering-result-eda.ipynb)  
 
 ### 4.1) Single-Purchase Customer Clustering
 #### EDA
