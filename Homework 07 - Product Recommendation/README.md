@@ -4,7 +4,7 @@
 A survey asking whether or not the user (students from the class) has ever purchased/used an item. We received 44 responses, and each respondent rated each item from 60 items as Yes or No.
 
 **Notebooks:** [Product recommendation](./hw07-product-recommendation.ipynb)  
-**Google Colab:** [Open in Colab](https://colab.research.google.com/drive/1PwHrh518AA3rce4Y7xBDahSHvUo1WwpC?usp=sharing)
+**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanatiem/BADS7105-CRM-Analytics/blob/main/Homework%2007%20-%20Product%20Recommendation/hw07-product-recommendation.ipynb)  
 
 ## Top Most/Least common items
 To see how common (ever purchased by users) each item is. Count of users who rated yes for each item normalized to [0,1] scale.
