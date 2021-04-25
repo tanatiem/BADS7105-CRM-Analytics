@@ -45,7 +45,7 @@ Create KMean model using *BigQuery ML* with [bq-ml-kmeans-repeat-purchase-custom
 * `avg_ticket_size` : average of total spending over all transactions, representing *Monetary* in RFM analysis.
 * `avg_monthly_spend` : average of total spending over all 'active' months, representing *Monetary* in RFM analysis.
 * `avg_monthly_visit` : average of total transactions over all 'active' months, representing *Frequency* in RFM analysis.
-* `days_since_first_purch` : duration in days from the first transaction, representing *Time*
+* `days_since_first_purch` : duration in days from the first transaction, representing *Tenure*
 * `days_since_last_purch` : duration in days from the last transaction, representing *Recency* in RFM analysis.
 * `avg_time_to_event` : duration in days between 2 transactions (events), representing *Frequency* in RFM analysis.
 
