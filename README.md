@@ -17,3 +17,5 @@
  [![](https://img.shields.io/badge/-Survey-blue)](#) [![](https://img.shields.io/badge/-Market--Basket-blue)](#) [![](https://img.shields.io/badge/-Collaborative--Filtering-blue)](#) [![](https://img.shields.io/badge/-Matrix--Factorization-blue)](#) [![](https://img.shields.io/badge/-Python-blue)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) 
 - [ ] [Homework 08 - Campaign Response Model](./Homework%2008%20-%20Campaign%20Response%20Model)  
 [![](https://img.shields.io/badge/-Under--Construction-yellow)](#)
+- [x] [Homework 09 - Customer Movement Analysis](./Homework%2009%20-%20Customer%20Movement%20Analysis)  
+[![](https://img.shields.io/badge/-SQL-blue)](#) [![](https://img.shields.io/badge/-BigQuery-blue)](#) [![](https://img.shields.io/badge/-Google--Data--Studio-blue)](#)  
