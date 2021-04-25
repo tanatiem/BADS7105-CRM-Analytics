@@ -1,5 +1,6 @@
 # Customer Movement Analysis
-To report and visualize the numbers of customers which are categorized into 4 groups, New, Repeat, Reactivated, and Churn.  
+[![](https://img.shields.io/badge/-SQL-blue)](#) [![](https://img.shields.io/badge/-BigQuery-blue)](#) [![](https://img.shields.io/badge/-Google--Data--Studio-blue)](#)  
+The monthly report the numbers of customers categorized into 4 groups, New, Repeat, Reactivated, and Churn, in order to see the changes in the customers for each month.
 
 ## Dataset 📊  
 Supermarket, the same data as used in Customer Segmentation homework.
