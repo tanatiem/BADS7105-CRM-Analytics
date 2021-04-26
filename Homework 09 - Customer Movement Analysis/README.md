@@ -9,7 +9,7 @@ Supermarket, the same data as used in Customer Segmentation homework.
 Since the data was already imported into BigQuery from the previous work, use the sql script to prepare the data for visualization.  
 **SQL:** [customer-movement-prep.sql](./customer-movement-prep.sql)  
 
-For each reporting month, customers are grouped into 4 categories defined by the defition below  
+For each reporting month, customers are grouped into 4 categories defined by the condition below  
 
 | Status | Current | Previous | Before |
 | --- | :---: | :---: | :---: |
