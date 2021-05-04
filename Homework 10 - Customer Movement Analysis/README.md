@@ -1,4 +1,6 @@
 # Customer Movement Analysis
+[![](https://img.shields.io/badge/-SQL-blue)](#) [![](https://img.shields.io/badge/-BigQuery-blue)](#) [![](https://img.shields.io/badge/-Google--Data--Studio-blue)](#)  
+
 For each reporting month, customers are grouped into 4 categories defined by the defition below  
 
 | Status | Current | Previous | Before |
