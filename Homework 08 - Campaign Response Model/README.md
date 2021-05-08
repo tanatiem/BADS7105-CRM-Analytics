@@ -11,15 +11,15 @@ A Retail-like dataset consisting of CUSTOMER_ID, TRANS_DATE, TRANS_AMOUNT which 
 More feature engineering, such as
 * Tenure, Length of stay
 * Time to event
-* Monetary, Frequency, and Ticket Size for the past 6, 12, 18, 24 months
+* Monetary, Frequency, Ticket Size, Time to event for the past 6, 12, 18, 24 months
 * Velocity of spending for the short period over longer period, e.g, 12 over 24 months
 
 ## Result
 ![result](./result.png)
 
 ## Future Improvements
-* Proper model evaluation by using train-test-valid split and cross validation
-* SHAP Tree Explainer
+* Proper model evaluation by using train, validation, and test split including cross validation.  
+an expert suggests that this seems overfitting to the test-set
+* SHAP Tree Explainer interpretation
 * Proper Feature Selection
 * Hyperparamter tuning, maybe Optuna
-* LightGBM
