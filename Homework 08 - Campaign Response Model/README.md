@@ -17,6 +17,13 @@ More feature engineering, such as
 ## Result
 ![result](./result.png)
 
+
+## Feature Importance
+![feature importance](./feature-importance.png)
+
+## SHAP Tree Explainer
+![shap](./shap.png)
+
 ## Future Improvements
 * Proper model evaluation by using train, validation, and test split including cross validation.  
 an expert suggests that this seems overfitting to the test-set
