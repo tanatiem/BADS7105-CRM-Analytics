@@ -22,4 +22,4 @@
 - [x] [Homework 10 - Customer Movement Analysis](./Homework%2010%20-%20Customer%20Movement%20Analysis)  
 [![](https://img.shields.io/badge/-SQL-blue)](#) [![](https://img.shields.io/badge/-BigQuery-blue)](#) [![](https://img.shields.io/badge/-Google--Data--Studio-blue)](#)  
 - [ ] [Homework 11 - Voice of Customers](./Homework%2011%20-%20Voice%20of%20Customers)  
-[![](https://img.shields.io/badge/-Under--Construction-yellow)](#) [![](https://img.shields.io/badge/-NLP-blue)](#) [![](https://img.shields.io/badge/-Topic--Modeling-blue)](#) [![](https://img.shields.io/badge/-Python-blue)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#)  
+[![](https://img.shields.io/badge/-NLP-blue)](#) [![](https://img.shields.io/badge/-Topic--Modeling-blue)](#) [![](https://img.shields.io/badge/-Python-blue)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#)  
