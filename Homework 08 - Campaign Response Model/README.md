@@ -14,6 +14,10 @@ More feature engineering, such as
 * Monetary, Frequency, Ticket Size, Time to event for the past 6, 12, 18, 24 months
 * Velocity of spending for the short period over longer period, e.g, 12 over 24 months
 
+## Cohort Analysis
+![cohort](./cohort-analysis.png)
+
+
 ## Result
 ![result](./result.png)
 
