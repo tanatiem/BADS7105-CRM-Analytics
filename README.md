@@ -16,7 +16,7 @@
 - [x] [Homework 07 - Product Recommendation](./Homework%2007%20-%20Product%20Recommendation)  
  [![](https://img.shields.io/badge/-Survey-blue)](#) [![](https://img.shields.io/badge/-Market--Basket-blue)](#) [![](https://img.shields.io/badge/-Collaborative--Filtering-blue)](#) [![](https://img.shields.io/badge/-Matrix--Factorization-blue)](#) [![](https://img.shields.io/badge/-Python-blue)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) 
 - [x] [Homework 08 - Campaign Response Model](./Homework%2008%20-%20Campaign%20Response%20Model)  
-[![](https://img.shields.io/badge/-Classification-blue)](#) [![](https://img.shields.io/badge/-RFM-blue)](#) [![](https://img.shields.io/badge/-Python-blue)](#) [![](https://img.shields.io/badge/-Logistic--Regression-blue)](#) [![](https://img.shields.io/badge/-XGBoost-blue)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#)  
+[![](https://img.shields.io/badge/-Classification-blue)](#) [![](https://img.shields.io/badge/-RFM-blue)](#) [![](https://img.shields.io/badge/-Python-blue)](#) [![](https://img.shields.io/badge/-Logistic--Regression-blue)](#) [![](https://img.shields.io/badge/-XGBoost-blue)](#) [![](https://img.shields.io/badge/-LightGBM-blue)](#) [![](https://img.shields.io/badge/-Optuna-blue)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) 
 - [x] [Homework 09 - A/B Testing](./Homework%2009%20-%20AB%20Testing)  
 [![](https://img.shields.io/badge/-Survey-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)  
 - [x] [Homework 10 - Customer Movement Analysis](./Homework%2010%20-%20Customer%20Movement%20Analysis)  
