@@ -1,5 +1,5 @@
 # Campaign Response Model
-[![](https://img.shields.io/badge/-Classification-blue)](#) [![](https://img.shields.io/badge/-RFM-blue)](#) [![](https://img.shields.io/badge/-Python-blue)](#) [![](https://img.shields.io/badge/-Logistic--Regression-blue)](#) [![](https://img.shields.io/badge/-XGBoost-blue)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) 
+[![](https://img.shields.io/badge/-Classification-blue)](#) [![](https://img.shields.io/badge/-RFM-blue)](#) [![](https://img.shields.io/badge/-Python-blue)](#) [![](https://img.shields.io/badge/-Logistic--Regression-blue)](#) [![](https://img.shields.io/badge/-XGBoost-blue)](#) [![](https://img.shields.io/badge/-LightGBM-blue)](#) [![](https://img.shields.io/badge/-Optuna-blue)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) 
 
 ## Dataset 📊  
 A Retail-like dataset consisting of CUSTOMER_ID, TRANS_DATE, TRANS_AMOUNT which is on customer's basket level.  
