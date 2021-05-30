@@ -78,7 +78,7 @@ Using Optuna package to find the best params for each model with ease. The objec
 ![result](./result.png)  
  
 ## 7) Final Model
-SMOTE-TOMEK is the selected model. Train the model again with all data.  
+XGBoost + Feature Selection + SMOTE-TOMEK is the selected model. Train the model again with all data.  
 ### Feature Importance
 ![feature importance](./feature-importance.png)
 
