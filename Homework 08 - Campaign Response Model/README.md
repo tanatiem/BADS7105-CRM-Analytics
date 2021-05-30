@@ -34,7 +34,9 @@ Originally, only Recency, Frequency, and Monetary features are given with test-a
 ## 2) Evaluate models (1st round)
 Using all generated features with Logistic Regression, XGBoost and LightGBM models and various resampling methods, i.e., undersampling, oversampling, SMOTE, SMOTE (upsampling) + TOMEK Links (undersampling), SMOTE (upsampling) + ENN (undersampling).  
 By cross-validating the training set, mean/stddev of train-auc and validation-auc scores are provided including test-auc score.
-
+![cross-validation](./cross-validation.png)  
+ 
+ Here's the scores of using different models and resamplers.  
 ![model-selection-1](./model-selection-1.png)
 
 - XGBoost and LightGBM outperforms Logistic Regression
