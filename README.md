@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/-Diagram-blue)](#)
 - [x] [Homework 04 - Customer Journey](./Homework%2004%20-%20Customer%20Journey)  
 [![](https://img.shields.io/badge/-Diagram-blue)](#)
-- [ ] [Homework 05 - CLV Dashboard](./Homework%2005%20-%20CLV%20Dashboard)  
+- [x] [Homework 05 - CLV Dashboard](./Homework%2005%20-%20CLV%20Dashboard)  
 [![](https://img.shields.io/badge/-Dashboard-blue)](#) [![](https://img.shields.io/badge/-Power--BI-blue)](#)  
 - [x] [Homework 06 - Customer Segmentation](./Homework%2006%20-%20Customer%20Segmentation)  
 [![](https://img.shields.io/badge/-K--Means-blue)](#) [![](https://img.shields.io/badge/-BigQuery-blue)](#) [![](https://img.shields.io/badge/-BigQuery--ML-blue)](#) [![](https://img.shields.io/badge/-SQL-blue)](#) [![](https://img.shields.io/badge/-Python-blue)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#)  
